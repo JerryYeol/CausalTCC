@@ -71,4 +71,4 @@ python main.py \
 *   `PyTorch`
 *   `mne` (for EEG processing)
 *   `scipy`, `numpy`, `scikit-learn`
-*   pip install -r reqirements
+*   `pip install -r reqirements.txt`
