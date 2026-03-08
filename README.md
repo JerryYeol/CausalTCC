@@ -1,12 +1,3 @@
-这是一份为您定制的模型 **CausalTCC** 的标准开源项目 `README.md` 文档。
-
-考虑到这类主要涉及学术论文和开源代码的项目，标准的 `README.md` 通常建议使用**英文**编写，以便于国际学术圈乃至更广泛的开源社区使用和复现。
-
-您可以直接复制下方代码框中的内容保存为 `README.md` 文件。
-
-***
-
-```markdown
 # CausalTCC
 
 This repository contains the official implementation of the **CausalTCC** model, a framework designed for self-supervised pre-training and downstream fine-tuning on physiological time-series data, specifically focusing on Electroencephalography (EEG) for Alzheimer's Disease (AD) detection and Human Activity Recognition (HAR).
@@ -81,4 +72,3 @@ python main.py \
 *   `PyTorch`
 *   `mne` (for EEG processing)
 *   `scipy`, `numpy`, `scikit-learn`
-```
