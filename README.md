@@ -67,8 +67,8 @@ python main.py \
 
 ## 📖 Requirements
 
-*(Add your specific dependencies here, e.g.:)*
 *   `Python 3.8+`
 *   `PyTorch`
 *   `mne` (for EEG processing)
 *   `scipy`, `numpy`, `scikit-learn`
+*   pip install -r reqirements
